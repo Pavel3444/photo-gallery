@@ -1,0 +1,22 @@
+.BackButton {
+display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.BackButton button{
+    padding: 10px 20px;
+    font-weight: bold;
+    margin: 0 20px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    background:  blue;
+    color: #fff;
+}
+.BackButton button:hover{
+    border-radius: 7px;
+    box-shadow:  0 0 12px #000;
+}

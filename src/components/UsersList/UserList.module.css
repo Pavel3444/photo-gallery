@@ -1,0 +1,7 @@
+.UserList{
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid #fff;
+    padding: 1rem 0;
+    margin-bottom: 1rem;
+}

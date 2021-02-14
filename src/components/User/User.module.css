@@ -1,0 +1,10 @@
+.User{
+display: inline-block;
+    padding: 5px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.User:hover{
+    text-shadow: 2px 2px 12px #fff;
+}

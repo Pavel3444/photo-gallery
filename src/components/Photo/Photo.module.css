@@ -1,0 +1,10 @@
+.Photo{
+    max-width: 100px;
+    display: inline-block;
+    max-height: 100px;
+    margin: .2rem;
+    cursor: pointer;
+}
+.Photo img{
+    max-width: 100%;
+}
